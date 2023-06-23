@@ -8,3 +8,11 @@ echo Value of a is $adollars
 
 echo Value of a is {a}dollars
     # Value of a is 10dollars 
+
+
+# Special Variables 
+
+echo Script Name - $0
+echo First Argument - $1
+echo All Arguments - $*
+echo No of Arguments - $#
